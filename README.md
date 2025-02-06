@@ -1,72 +1,91 @@
-# Hi there, I’m Sagar Gautam! 👋
+# Hey there, I'm **Sagar Gautam** 👋
 
-🌏 **Location:** Kathmandu, Nepal  
-🎓 **Education:** BSc.CSIT Student at Bhaktapur Multiple Campus  
-💼 **Profession:** Front-End Developer specializing in React.js
-
-## About Me 💡
-I’m a dedicated and passionate front-end developer with a strong focus on building intuitive and responsive web applications. Currently pursuing my Bachelor’s in Computer Science and Information Technology (BSc.CSIT), I enjoy transforming ideas into digital experiences. My journey in tech started with an interest in web development, and I quickly found my passion in creating seamless user interfaces. My goal is to constantly improve my skills and work on projects that make a meaningful impact.
-
-I thrive in collaborative environments where I can contribute to building innovative solutions and am always open to new learning opportunities. With each project, I aim to write clean, efficient, and scalable code.
-
-## 🔧 Technologies & Skills
-Here's a list of technologies and tools I work with:
-
-- **Languages:** HTML, CSS, JavaScript  
-- **Frameworks/Libraries:** React.js, Tailwind CSS, Bootstrap  
-- **Version Control:** Git, GitHub  
-- **Tools & IDEs:** Visual Studio Code, Chrome DevTools  
-- **Design:** Basic familiarity with Figma for prototyping UI
-
-## 🌱 Currently Learning
-I'm actively expanding my skill set with a focus on:
-- **Advanced React Concepts:** Hooks, Context API, and performance optimization.
-- **JavaScript ES6+:** Staying up-to-date with the latest JavaScript features and best practices.
-- **Back-End Development:** Basics of Node.js and Express.js, as I work towards becoming a more well-rounded developer.
-- **UI/UX Design Principles:** Understanding user-centered design to create more engaging applications.
-
-## 💼 Projects
-Here’s a look at some of the projects I’m currently working on or have completed:
-- **e-Voting System:**  
-A digital voting platform designed specifically for Nepal's e-governance needs. Built with React.js, this system focuses on providing secure and reliable voting solutions to ensure transparency and ease of use in elections.
-
-- **Portfolio Website:**  
-My personal portfolio showcasing my projects, skills, and contact information. (Link coming soon!)
-
-- **Weather App:**  
-A simple yet effective weather application that pulls data from a weather API and provides users with real-time updates.
-
-More projects are coming soon!
-
-## 🏆 Achievements & Goals
-**Achievements:**
-- Built and deployed several front-end projects using React.js.
-- Completed various online courses on web development and JavaScript.
-
-**Short-Term Goals:**
-- Contribute to open-source projects on GitHub.
-- Build a full-stack application by integrating back-end technologies.
-
-**Long-Term Goals:**
-- Become a well-rounded full-stack developer.
-- Work on large-scale projects that impact communities and solve real-world problems.
-
-## 📫 How to Reach Me
-I'm always open to connecting and collaborating! Feel free to reach out through any of the following platforms:
-- **GitHub:** [sagargautam500](https://github.com/sagargautam500)
-- **LinkedIn:** [sagargautam500](https://www.linkedin.com/in/sagargautam500/)
-- **Email:** sagargautam389@gmail.com
-- **Instagram:** [sagargautam500](https://www.instagram.com/sagargautam500/)
-- **Facebook:** [Sagar Gautam](https://www.facebook.com/profile.php?id=100071846287638)
-
-## ⚡ Fun Facts & Hobbies
-**Fun Fact:**  
-I’m a lifelong learner and believe that every project, no matter how small, offers an opportunity to grow.
-
-**Hobbies:**
-- Coding, exploring tech blogs, photography, and spending time in nature.
+<div align="center">
+  <sub>
+    Kathmandu, Nepal | BSc.CSIT at Bhaktapur Multiple Campus | Front-End Developer (React.js)
+  </sub>
+</div>
 
 ---
 
-Thank you for visiting! 🙏  
-Feel free to explore my projects or reach out if you’re interested in collaboration, mentorship, or just connecting. Let’s make amazing things together!
+## 🌟 About Me
+
+I'm a creative front-end developer passionate about transforming ideas into interactive, responsive web experiences. I thrive on clean code, innovative design, and continuous learning. Whether collaborating on open-source projects or building my own, I'm always looking for ways to push the boundaries of what's possible on the web.
+
+---
+
+## 🔧 Tech Stack & Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</div>
+
+---
+
+## 🚀 Currently Learning
+
+- **Advanced React:** Hooks, Context API, and performance optimization  
+- **Modern JavaScript:** ES6+ features & best practices  
+- **Back-End Basics:** Node.js and Express.js fundamentals  
+- **UI/UX Design:** Enhancing user-centered design principles
+
+---
+
+## 💼 Featured Projects
+
+<div align="left">
+  <ul>
+    <li>
+      <b>GestureSpeak_SignLanguageDetection</b> 🤟  
+      Real-time sign language detection and translation using cutting-edge machine learning.
+    </li>
+    <li>
+      <b>SocialMediaPost</b> 📝  
+      An interactive platform for crafting and sharing engaging social media content.
+    </li>
+    <li>
+      <b>Shoes_ecommerce</b> 👟  
+      A sleek, responsive e-commerce site for footwear with a focus on user experience.
+    </li>
+  </ul>
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <a href="https://github.com/sagargautam500" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-sagargautam500-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/sagargautam500/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-sagargautam500-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:sagargautam389@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-sagargautam389@gmail.com-c14438?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</div>
+
+---
+
+## 🎉 Fun Facts & Hobbies
+
+- **Curious Mind:** I'm always exploring the latest tech trends and tools.
+- **Shutterbug:** Passionate about photography 📸.
+- **Nature Buff:** Love spending time outdoors, recharging in nature 🌳.
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sagargautam500/sagargautam500/main/assets/animated_wave.gif" alt="Wave" width="100px">
+</div>
+
+Thanks for stopping by! Let's build something amazing together. 🚀
